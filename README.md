@@ -1,33 +1,51 @@
 <div class="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="140">
     <h1 align="center">Hi 👋 , I'm Pablo Valdez</h1>
-    <h3 align="center">I am a Full Stack Developer . I am also nearing the completion of my Bachelor's degree in Information Systems.</h3>
-    <h3 align="center">I am passionate about the world of technology, enjoy working in teams, value organization, have an analytical mindset, and thrive on daily learning.</h3>
+    <h3 align="center">I'm a Full Stack Developer.</h3>
+    <h3 align="center">I'm passionate about the world of technology, enjoy working in teams, value organization, have an analytical mindset, and thrive on daily learning.</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About me
 
-- 🌍 I am from Corrientes, Argentina. I am 28 years old.
+- 🌍 I'm from Corrientes, Argentina. I'm 28 years old.
 
 - 🎓 I hold a degree in programming with the title of University Analyst Programmer awarded by the Universidad Nacional del Nordeste.
 
 - 📚 Close to completing my Bachelor's degree in Information Systems at the same university.
 
-- 💻 Currently working with:
-
-<h3 align="left">💻 Currently working with:</h3>
+<h3 align="left">💻 Programming Languages:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 </p>
 
-<h3 align="left">🚀 Continuously learning:</h3>
+<h3 align="left">🚀 Frameworks and Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/DBeaver-2C8EBB?style=flat-square&logo=dbeaver&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</p>
+
+<h3 align="left">🚀 Deployment:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware%20vSphere-607078?style=flat-square&logo=vmware&logoColor=white">
+  <img src="https://img.shields.io/badge/SSH-4EAA25?style=flat-square&logo=ssh&logoColor=white">
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white">
+</p>
+
+<h3 align="left">🌱 Currently Learning:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
