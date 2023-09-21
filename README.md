@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 </p>
 
-<h3 align="left">🚀 Frameworks and Tools:</h3>
+<h3 align="left">🧰 Frameworks and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
@@ -51,12 +51,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<h3 align="left">📫 How to reach me:</h3>
+<a href="mailto:tu@email.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Contact Me via Gmail" height="40" width="40">
+</a>
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
