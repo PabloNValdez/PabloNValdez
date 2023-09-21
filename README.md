@@ -52,9 +52,12 @@
 </p>
 
 <h3 align="left">📫 How to reach me:</h3>
-<a href="mailto:tu@email.com" target="_blank">
+<a href="mailto:pablovaldez0301@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Contact Me via Gmail" height="40" width="40">
 </a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxThllBdXNDzBDcpcVZPRHllFxLwjHskpvGBsmlmrQpblCQXzQJQgLcFrGTCPMnkJjbCQf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="" width="40" height="40">
+</a> 
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
