@@ -15,6 +15,8 @@
 
 - 📚 Close to completing my Bachelor's degree in Information Systems at the same university.
 
+---
+
 <h3 align="left">💻 Programming Languages:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
@@ -55,7 +57,7 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <a href="mailto:pablovaldez0301@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png](https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png" alt="Contact me" height="40" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png" alt="Contact me" height="40" width="40">
 </a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxThllBdXNDzBDcpcVZPRHllFxLwjHskpvGBsmlmrQpblCQXzQJQgLcFrGTCPMnkJjbCQf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Contact me with Gmail" width="40" height="40">
