@@ -17,8 +17,8 @@
 
 - 💻 Currently working with:
 
-<h3 align="center">💻 Currently working with:</h3>
-<p align="center">
+<h3 align="left">💻 Currently working with:</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=sql&logoColor=white">
 </p>
 
-<h3 align="center">🚀 Continuously learning:</h3>
-<p align="center">
+<h3 align="left">🚀 Continuously learning:</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </p>
