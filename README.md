@@ -1,5 +1,5 @@
 <div class="header" align="center">
-    <iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img>
     <h1 align="center">Hi 👋 , I'm Pablo Valdez</h1>
     <h3 align="center">I'm a Full Stack Developer.</h3>
     <h3 align="center">I'm passionate about technology, enjoy teamwork, thrive on organization, possess an analytical mindset, and remain committed to continuous learning.</h3>
@@ -62,14 +62,14 @@
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
   <a href="mailto:pablovaldez0301@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png" alt="Contact me" height="40" width="40">
-</a>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png" alt="Contact me" height="40" width="40">
+  </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxThllBdXNDzBDcpcVZPRHllFxLwjHskpvGBsmlmrQpblCQXzQJQgLcFrGTCPMnkJjbCQf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Contact me with Gmail" width="40" height="40">
-</a> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Contact me with Gmail" width="40" height="40">
+  </a> 
   <a href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="Contact me in LinkedIn" width="40" height="33">
-</a> 
+      <img src="https://img.freepik.com/iconos-gratis/linkedin_318-157468.jpg?w=2000" alt="Contact me in LinkedIn" width="40" height="40">
+  </a> 
 </p>
 
 
