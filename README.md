@@ -1,9 +1,11 @@
 <div class="header" align="center">
-    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="140">
+    <iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
     <h1 align="center">Hi 👋 , I'm Pablo Valdez</h1>
     <h3 align="center">I'm a Full Stack Developer.</h3>
-    <h3 align="center">I'm passionate about the world of technology, enjoy working in teams, value organization, have an analytical mindset, and thrive on daily learning.</h3>
+    <h3 align="center">I'm passionate about technology, enjoy teamwork, thrive on organization, possess an analytical mindset, and remain committed to continuous learning.</h3>
 </div>
+
+
 
 ---
 
@@ -30,6 +32,7 @@
 <h3 align="left">🧰 Frameworks and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=sql&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-2C8EBB?style=flat-square&logo=dbeaver&logoColor=white">
@@ -51,6 +54,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
 </p>
 
 ---
@@ -63,8 +67,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Contact me with Gmail" width="40" height="40">
 </a> 
 <a href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="Contact me in LinkedIn" width="35" height="35">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="Contact me in LinkedIn" width="40" height="33">
 </a> 
-
 
 
