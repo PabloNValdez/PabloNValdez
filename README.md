@@ -60,14 +60,19 @@
 ---
 
 <h3 align="left">📫 How to reach me:</h3>
-<a href="mailto:pablovaldez0301@gmail.com" target="_blank">
+<p align="left">
+  <a href="mailto:pablovaldez0301@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png" alt="Contact me" height="40" width="40">
 </a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxThllBdXNDzBDcpcVZPRHllFxLwjHskpvGBsmlmrQpblCQXzQJQgLcFrGTCPMnkJjbCQf">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxThllBdXNDzBDcpcVZPRHllFxLwjHskpvGBsmlmrQpblCQXzQJQgLcFrGTCPMnkJjbCQf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Contact me with Gmail" width="40" height="40">
 </a> 
-<a href="">
+  <a href="">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="Contact me in LinkedIn" width="40" height="33">
 </a> 
+</p>
+
+
+
 
 
