@@ -63,13 +63,13 @@
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
   <a href="mailto:pablovaldez0301@gmail.com" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png" alt="Contact me" height="40" width="40">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png" alt="E-Mail" height="40" width="40">
   </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxThllBdXNDzBDcpcVZPRHllFxLwjHskpvGBsmlmrQpblCQXzQJQgLcFrGTCPMnkJjbCQf">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Contact me with Gmail" width="40" height="40">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40">
   </a> 
   <a href="https://www.linkedin.com/in/pablonvaldez">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Contact me with Gmail" width="40" height="40">
+      <img src="https://img.freepik.com/iconos-gratis/linkedin_318-157468.jpg?w=2000" alt="LinkedIn" width="40" height="40">
   </a> 
 </p>
 
