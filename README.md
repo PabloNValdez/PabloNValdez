@@ -68,9 +68,6 @@
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxThllBdXNDzBDcpcVZPRHllFxLwjHskpvGBsmlmrQpblCQXzQJQgLcFrGTCPMnkJjbCQf">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40">
   </a> 
-  <a href="https://www.linkedin.com/in/pablonvaldez">
-      <img src="https://img.freepik.com/iconos-gratis/linkedin_318-157468.jpg?w=2000" alt="LinkedIn" width="40" height="40">
-  </a> 
   <a href="https://www.linkedin.com/in/pablonvaldez/overlay/contact-info/">
       <img src="https://img.freepik.com/iconos-gratis/linkedin_318-157468.jpg?w=2000" alt="LinkedIn" width="40" height="40">
   </a> 
