@@ -1,7 +1,7 @@
 <div class="header" align="center">
     <img src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img>
     <h1 align="center">Hi 👋 , I'm Pablo Valdez</h1>
-    <h3 align="center">I'm a Full Stack Developer.</h3>
+    <h3 align="center">I'm a Developer.</h3>
     <h3 align="center">I'm passionate about technology, enjoy teamwork, thrive on organization, possess an analytical mindset, and remain committed to continuous learning.</h3>
 </div>
 
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About me
 
-- 🌍 I'm from Corrientes, Argentina. I'm 28 years old.
+- 🌍 I'm from Corrientes, Argentina. I'm 29 years old.
 
 - 🎓 I hold a degree in programming with the title of University Analyst Programmer awarded by the Universidad Nacional del Nordeste.
 
